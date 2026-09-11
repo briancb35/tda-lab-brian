@@ -1,6 +1,6 @@
 # TDA Lab de Brian Carrillo Becerra
 
-2ºA BACH · Curso 2026-2027**
+**2ºA BACH · Curso 2026-2027**
 
 
 Aquí es donde dejo mi rastro sobre el trabajo hecho durante curso en TDA-II
