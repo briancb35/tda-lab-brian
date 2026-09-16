@@ -9,5 +9,7 @@ Además, me gusta salir a pasear y descubrir lugares nuevos cuando tengo tiempo 
 Buscando en GitHub he encontrado, https://github.com/INK-USC/CrossFit, una programa para conocer un poco más sobre el CrossFit.
 
 
+
 Esto es el CrossFit
+
 <img width="474" height="316" alt="image" src="https://github.com/user-attachments/assets/763f2d93-6294-4deb-9448-f06c435fb3d4" />
