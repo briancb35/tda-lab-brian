@@ -20,10 +20,10 @@ Esto es el CrossFit
 
 (https://www.fpa.es/es/premios-princesa-de-asturias/premiados/2026-christina-koch/)
 
-![Segundo vuelo espacial de Christina Koch](Christina Koch.jpg)
+![Segundo vuelo espacial de Christina Koch](capturas/christinakoch.jpg)
 
 
 
-
+Christina Koch
 
 
