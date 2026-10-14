@@ -23,7 +23,6 @@ Esto es el CrossFit
 ![Segundo vuelo espacial de Christina Koch](capturas/christinakoch.jpg)
 
 
-
 Christina Koch
 
 ### 13/10 · Ada Lovelace
