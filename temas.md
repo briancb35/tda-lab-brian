@@ -29,11 +29,13 @@ Christina Koch
 ### 13/10 · Ada Lovelace
 
 Ada Lovelace fue una mujer inglesa que nació en 1815 y a la que le gustaban mucho las matemáticas y la ciencia. Trabajó con Charles Babbage, que diseñó una máquina capaz de hacer cálculos. Ada escribió instrucciones para esa máquina y por eso se la considera la primera programadora de ordenadores de la historia. Su día se celebra para recordar su trabajo y destacar la importancia de las mujeres en la ciencia y la tecnología. El Día de Ada Lovelace se celebra el segundo martes de octubre.
+
 [Ada Lovelace en Wikipedia](https://es.wikipedia.org/wiki/Ada_Lovelace)
 [Ada Lovelace en mncn](https://www.mncn.csic.es/es/visita-el-mncn/biografia-de-ada-lovelace)
 
-!^[Retrato de Ada Lovelace](capturas/ada.jpg){: width="300"}
-*PIE DE FOTO. Imagen: EL AUTOR, [Wikimedia Commons](DIRECCIÓN DE LA PÁGINA DE LA IMAGEN)*
+![Retrato de Ada Lovelace](capturas/ada.jpg){: width="300"}
+
+*PIE DE FOTO. Imagen: Alfred Edward Chalon,[ (https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg)*
 
 ---
 
